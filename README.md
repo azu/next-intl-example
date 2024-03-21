@@ -1,5 +1,10 @@
 # Next.js App Router + Static Exports(`output: "export"`) + i18n([next-intl](https://github.com/amannn/next-intl))
 
+This is an example of how to use Next.js App Router with Static Exports and i18n.
+Full static i18n website with Next.js App Router and Static Exports.
+
+
+
 Structure:
 
 ```text
